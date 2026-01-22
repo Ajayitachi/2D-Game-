@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: fe250630f7391264fb88e79a3fed084c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7421144689322454082
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_0
+  - first:
+      213: 6974680555156946193
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_1
+  - first:
+      213: -181703239840351321
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_2
+  - first:
+      213: 6890171667766521900
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_3
+  - first:
+      213: 2099387527604039918
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_4
+  - first:
+      213: -411357891980651804
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_5
+  - first:
+      213: 8128182038307225113
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_6
+  - first:
+      213: 2632094939668127847
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_7
+  - first:
+      213: 8729497706839754540
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_8
+  - first:
+      213: -282990043066379527
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_9
+  - first:
+      213: 1163769893702833759
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_10
+  - first:
+      213: 5729758955506752607
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_11
+  - first:
+      213: -4689193335914243721
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_12
+  - first:
+      213: -8415377014157626207
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_13
+  - first:
+      213: 7249819349931015179
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_14
+  - first:
+      213: 1816761436891277461
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_15
+  - first:
+      213: 227052585194810766
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_16
+  - first:
+      213: 1808307426443953410
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_17
+  - first:
+      213: -57016993038631740
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_18
+  - first:
+      213: 3365387163683950386
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_19
+  - first:
+      213: -7159234977133070252
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_20
+  - first:
+      213: -8688785614754634694
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_21
+  - first:
+      213: -2676020921085766857
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_22
+  - first:
+      213: -59013217528542285
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_23
+  - first:
+      213: -1952286838389821818
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_24
+  - first:
+      213: 1803509304647747702
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_25
+  - first:
+      213: 408206555877962534
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_26
+  - first:
+      213: 135725491887483003
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_27
+  - first:
+      213: 2772381093097538634
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_28
+  - first:
+      213: -8825302135245794612
+    second: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 273
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb39826593cc20990800000000000000
+      internalID: -7421144689322454082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 273
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d34ffe20b0bc060800000000000000
+      internalID: 6974680555156946193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 273
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab37c6bdd57a7df0800000000000000
+      internalID: -181703239840351321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 273
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c203faa40aece9f50800000000000000
+      internalID: 6890171667766521900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 273
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee079b455d5822d10800000000000000
+      internalID: 2099387527604039918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 273
+        width: 15
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e290fc3d209a4af0800000000000000
+      internalID: -411357891980651804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_6
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 273
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e3307bf7a1dc070800000000000000
+      internalID: 8128182038307225113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 273
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760a506f664178420800000000000000
+      internalID: 2632094939668127847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_8
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 273
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2745cbd9e7652970800000000000000
+      internalID: 8729497706839754540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_9
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 273
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f25e002e0e921cf0800000000000000
+      internalID: -282990043066379527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 171
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56937a6d8a862010800000000000000
+      internalID: 1163769893702833759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 171
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cd7979961348f40800000000000000
+      internalID: 5729758955506752607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 171
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779d3b16183aceeb0800000000000000
+      internalID: -4689193335914243721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 171
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4b5243133963b80800000000000000
+      internalID: -8415377014157626207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_14
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 171
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c346e99488c9460800000000000000
+      internalID: 7249819349931015179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 171
+        width: 15
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5986887b6ee663910800000000000000
+      internalID: 1816761436891277461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_16
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 171
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8deedd8f17a62300800000000000000
+      internalID: 227052585194810766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 171
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20584e50606681910800000000000000
+      internalID: 1808307426443953410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_18
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 171
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc75cfc85f653ff0800000000000000
+      internalID: -57016993038631740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 171
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f8a077bc144be20800000000000000
+      internalID: 3365387163683950386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 71
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4587e6438b945ac90800000000000000
+      internalID: -7159234977133070252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 71
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34a60fb48b3b6780800000000000000
+      internalID: -8688785614754634694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 71
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7335b23862ddcdad0800000000000000
+      internalID: -2676020921085766857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 71
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb88249ac75e2ff0800000000000000
+      internalID: -59013217528542285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_24
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 71
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eaa12d67518e4e0800000000000000
+      internalID: -1952286838389821818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 71
+        width: 15
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67804ac382a570910800000000000000
+      internalID: 1803509304647747702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 71
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623771623bd3aa500800000000000000
+      internalID: 408206555877962534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_27
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 71
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b782be2ad9132e100800000000000000
+      internalID: 135725491887483003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_28
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 71
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44861c5ae9797620800000000000000
+      internalID: 2772381093097538634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_29
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 71
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc29d29677a368580800000000000000
+      internalID: -8825302135245794612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_0: -7421144689322454082
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_1: 6974680555156946193
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_10: 1163769893702833759
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_11: 5729758955506752607
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_12: -4689193335914243721
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_13: -8415377014157626207
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_14: 7249819349931015179
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_15: 1816761436891277461
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_16: 227052585194810766
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_17: 1808307426443953410
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_18: -57016993038631740
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_19: 3365387163683950386
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_2: -181703239840351321
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_20: -7159234977133070252
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_21: -8688785614754634694
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_22: -2676020921085766857
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_23: -59013217528542285
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_24: -1952286838389821818
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_25: 1803509304647747702
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_26: 408206555877962534
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_27: 135725491887483003
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_28: 2772381093097538634
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_29: -8825302135245794612
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_3: 6890171667766521900
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_4: 2099387527604039918
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_5: -411357891980651804
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_6: 8128182038307225113
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_7: 2632094939668127847
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_8: 8729497706839754540
+      Free-Game-Coins-Sprite-Sheets-2-removebg-preview (1)_9: -282990043066379527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
